@@ -51,7 +51,8 @@ Hi there! I am Ling Wan Yin👋
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WanYin0704&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
 <br><br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=WanYin0704&label=VISITORS%20TODAY&labelColor=%23d9e3f0&countColor=%232ccce4)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=WanYin0704&label=VISITORS%20TODAY&labelColor=%2345b6fe&countColor=%236ac5fe)](https://visitorbadge.io/status?path=WanYin0704)
+
 <!---
 WanYin0704/WanYin0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
