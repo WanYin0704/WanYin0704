@@ -1,6 +1,6 @@
 <h2> About Me 🌱</h2>
 <div>
-Hi everyone, I am Ling Wan Yin 👋
+Hi there! I am Ling Wan Yin👋
   
 
 - 👀 Currently a third-year data engineering student at Universiti Teknologi Malaysia (UTM).
@@ -47,7 +47,8 @@ Hi everyone, I am Ling Wan Yin 👋
 
 <h2>GitHub Stats 🔥</h2>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WanYin0704&show_icons=true&theme=gruvbox )
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WanYin0704&show_icons=true&theme=white )
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WanYin0704&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
 
 <!---
 WanYin0704/WanYin0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
