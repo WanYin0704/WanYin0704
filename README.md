@@ -44,7 +44,7 @@ Hi everyone, I am Ling Wan Yin 👋
 <br>
 <br>
 <br>
-<br>
+
 <h2>GitHub Stats 🔥</h2>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WanYin0704&show_icons=true&theme=gruvbox )
