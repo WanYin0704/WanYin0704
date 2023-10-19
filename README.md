@@ -1,13 +1,13 @@
 ## About Me 🌱
-Hi there! I am Ling Wan Yin👋
+Hi there! I am **Ling Wan Yin**👋
 <img align= "right" src="hello.gif" length="200" width="225">
 
-- 👀 Currently a third-year data engineering student at Universiti Teknologi Malaysia (UTM).
+- 👀 Currently a _**third-year data engineering student**_ at **Universiti Teknologi Malaysia (UTM)**.
   <br>
   
 - 🙌 I am looking to collaborate on transforming data into valuable insights and impactful data-driven solutions.
   <br>
-- 📫 Feel free to reach me for any collaboration via lingwanyin2002@gmail.com to kickstart my data mining journey.
+- 📫 Feel free to reach me for any collaboration via **lingwanyin2002@gmail.com** to kickstart my data mining journey.
 
 
 ## Languages and Tools 🚀
