@@ -29,9 +29,9 @@ Hi there! I am Ling Wan Yin👋
 <br><br>
 
 ## Badges 💕
-[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/9d782e99-2e4f-492e-89a2-0c566a69e21a)
+[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/9d782e99-2e4f-492e-89a2-0c566a69e21a/public_url)
 
-[Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/earner/earned/badge/d0a4fcd7-b546-4cf7-a1fa-ea3693a7382d)
+[Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/d0a4fcd7-b546-4cf7-a1fa-ea3693a7382d/public_url)
 <br><br>
 
 ## Let's Connect 🌐
