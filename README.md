@@ -1,18 +1,16 @@
-<h2> About Me 🌱</h2>
-<div>
+## About Me 🌱
 Hi there! I am Ling Wan Yin👋
-  
+<img align= "right" src="hello.gif" length="200" width="225">
 
 - 👀 Currently a third-year data engineering student at Universiti Teknologi Malaysia (UTM).
   <br>
+  
 - 🙌 I am looking to collaborate on transforming data into valuable insights and impactful data-driven solutions.
   <br>
-
 - 📫 Feel free to reach me for any collaboration via lingwanyin2002@gmail.com to kickstart my data mining journey.
-</div>
 
 
-<h2>Languages and Tools 🚀</h2>
+## Languages and Tools 🚀
 
 <div>
   
@@ -29,10 +27,14 @@ Hi there! I am Ling Wan Yin👋
 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" height = 50>  
 <br><br>
-</div>
-<div>
-<h2>Let's Connect 🌐</h2>
 
+## Badges 💕
+[AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/9d782e99-2e4f-492e-89a2-0c566a69e21a)
+
+[Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/earner/earned/badge/d0a4fcd7-b546-4cf7-a1fa-ea3693a7382d)
+<br><br>
+
+## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/lingwanyin/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/WanYin0704/WanYin0704/7b5a68f236485a4170a914a0ece5565d8830c14c/linkedin.png" height="60" />
 </a>
@@ -45,11 +47,12 @@ Hi there! I am Ling Wan Yin👋
 <br>
 <br>
 
-<h2>GitHub Stats 🔥</h2>
-
+## GitHub Stats 🔥
+  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WanYin0704&show_icons=true&theme=white )
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WanYin0704&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
-<br><br>
+![Weekly](https://streak-stats.demolab.com?user=WanYin0704&theme=transparent&mode=weekly)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanYin0704&langs_count=8)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=WanYin0704&label=VISITORS%20TODAY&labelColor=%2345b6fe&countColor=%236ac5fe)](https://visitorbadge.io/status?path=WanYin0704)
 
