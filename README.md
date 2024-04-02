@@ -47,6 +47,11 @@ Hi there! I am **Ling Wan Yin** 👋✌️
   - [Python Essentials 1](https://www.credly.com/badges/7f8be19a-99eb-4c92-8bae-16f0a895d424)
 </details>
 
+## Projects 🚀
+1. [Car Booking System](https://github.com/WanYin0704/Car-Booking-System)
+
+2. [Intellect Playschool](https://github.com/WanYin0704/Intellect-Playschool-Management-System)
+
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/lingwanyin/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/WanYin0704/WanYin0704/7b5a68f236485a4170a914a0ece5565d8830c14c/linkedin.png" height="60" />
