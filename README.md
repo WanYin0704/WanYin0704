@@ -5,7 +5,7 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 - 👀 A **third-year data engineering student** at **Universiti Teknologi Malaysia (UTM)**.
   <br>
   
-- 🌱 Currently learning **ASP.NET** 
+- 🌱 Currently learning **ASP.NET Core**. 
   
 - 🙌 I'm passionate about transforming data into valuable insights and impactful data-driven solutions.
   <br>
@@ -48,9 +48,25 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 </details>
 
 ## Projects 🚀
+<details>
+  <summary><b>System Development</b></summary>
+  
 1. [Car Booking System](https://github.com/WanYin0704/Car-Booking-System)
+  
+2. [Intellect Playschool](https://github.com/WanYin0704/Intellect-Playschool-Management-System)  
+</details>
 
-2. [Intellect Playschool](https://github.com/WanYin0704/Intellect-Playschool-Management-System)
+<details>
+  <summary><b>Data Exploration and Big Data Analysis</b></summary>
+  
+1. [Flow of patients in/out of Covid-19 Quarantine and Treatment Centres (PKRC), with capacity and utilisation](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass2/hpdp/ZProMax))
+  
+2. [New York Bus Rides Service Searches](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass3/hpdp/ZProMax)
+   
+3. [Brewery Operations and Market Analysis](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass6/hpdp/coconut)
+
+4. [Comparison between big data libraries](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT)
+</details>
 
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/lingwanyin/" target="_blank">
