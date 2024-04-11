@@ -89,14 +89,15 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 <br>
 <br>
 
-## GitHub Stats 🔥
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WanYin0704&show_icons=true&theme=white )
-![Weekly](https://streak-stats.demolab.com?user=WanYin0704&theme=transparent&mode=weekly)
+## GitHub Stats 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanYin0704&langs_count=8)
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=WanYin0704&show_icons=true&theme=catppuccin_latte&locale=en&layout=compact&hide_border=true" alt="WanYin0704" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WanYin0704&show_icons=true&theme=catppuccin_latte&locale=en&hide_border=true" alt="WanYin0704" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WanYin0704&theme=catppuccin_latte&hide_border=true" alt="WanYin0704" />
+</p>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=WanYin0704&label=VISITORS%20TODAY&labelColor=%2345b6fe&countColor=%236ac5fe)](https://visitorbadge.io/status?path=WanYin0704)
+![Snake animation](https://github.com/WanYin0704/WanYin0704/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 WanYin0704/WanYin0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
