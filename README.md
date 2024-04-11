@@ -68,6 +68,14 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 4. [Comparison between big data libraries](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT)
 </details>
 
+<details>
+  <summary><b>Data Visualization</b></summary>
+  
+1. [Premise-Item-Price-Dynamics-Dashboard](https://github.com/WanYin0704/Premise-Item-Price-Dynamics-Dashboard)
+   
+2. [Streamlit-Data-Visualization](https://github.com/WanYin0704/Streamlit-Data-Visualization)
+</details>
+
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/lingwanyin/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/WanYin0704/WanYin0704/7b5a68f236485a4170a914a0ece5565d8830c14c/linkedin.png" height="60" />
