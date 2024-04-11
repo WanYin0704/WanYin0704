@@ -92,13 +92,10 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 ## GitHub Stats 📈
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=WanYin0704&show_icons=true&theme=catppuccin_latte&locale=en&layout=compact&hide_border=true" alt="WanYin0704" /> 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WanYin0704&show_icons=true&theme=catppuccin_latte&locale=en&hide_border=true" alt="WanYin0704" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WanYin0704&theme=catppuccin_latte&hide_border=true" alt="WanYin0704" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=WanYin0704&show_icons=true&theme=catppuccin_latte&locale=en&layout=compact&hide_border=true" alt="WanYin0704" /> 
 </p>
-
-## Snake playground
-![snake gif](https://github.com/WanYin0704/WanYin0704/blob/output/github-contribution-grid-snake.gif)
 
 
 <!---
