@@ -97,7 +97,9 @@ Hi there! I am **Ling Wan Yin** 👋✌️
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WanYin0704&theme=catppuccin_latte&hide_border=true" alt="WanYin0704" />
 </p>
 
-![Snake animation](https://github.com/WanYin0704/WanYin0704/blob/output/github-contribution-grid-snake.svg)
+## Snake playground
+![snake gif](https://github.com/WanYin0704/WanYin0704/blob/output/github-contribution-grid-snake.gif)
+
 
 <!---
 WanYin0704/WanYin0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
