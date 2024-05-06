@@ -66,7 +66,7 @@ Hi there! I am **Ling Wan Yin** 👋✌️
   
 1. [Car Booking System](https://github.com/WanYin0704/Car-Booking-System)
   
-2. [Intellect Playschool](https://github.com/WanYin0704/Intellect-Playschool-Management-System)  
+2. [Intellect Playschool Management System](https://github.com/WanYin0704/Intellect-Playschool-Management-System)  
 </details>
 
 <details>
