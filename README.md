@@ -5,7 +5,7 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 - 👀 A **third-year data engineering student** at **Universiti Teknologi Malaysia (UTM)**.
   <br>
   
-- 🌱 Currently learning **ASP.NET Core**. 
+- 🌱 Currently learning **ASP.NET**. 
   
 - 🙌 I'm passionate about transforming data into valuable insights and impactful data-driven solutions.
   <br>
@@ -30,22 +30,35 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 
 ## Badges 💕
 
-### Cloud Certifications
-  
+  <details>
+    <summary><b>Cloud Certifications</b></summary>
+    
   - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/9d782e99-2e4f-492e-89a2-0c566a69e21a/public_url)
 - [AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/53454185-7887-4539-8d97-ee7659c9d1d4/public_url)
 - [AWS Academy Graduate - AWS Academy Data Engineering](https://www.credly.com/badges/abb8ae14-7dcf-4e72-b766-84dee60559e0/public_url)
 - [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/d0a4fcd7-b546-4cf7-a1fa-ea3693a7382d/public_url)
-
-### Data Analytics Certifications
+  </details>
   
+
+ <details>
+    <summary><b>Data Analytics Certifications</b></summary> 
+   
   - [Alteryx Designer Core Certification](https://www.credly.com/badges/83e21b60-3fb2-4839-9055-42334afdfce5/public_url)
+  - [Alteryx Designer Core Micro-Credential: General Knowledge](https://www.credly.com/badges/0e0d027a-1685-423f-8f80-e66ba4194d35/public_url)
+  - [Alteryx Designer Core Micro- Credential: Data Preparation](https://www.credly.com/badges/62e5ef1c-63ed-4d39-99a7-727debfb2c0c/public_url)
+  - [Alteryx Designer Core Micro-Credential: Data Manipulation](https://www.credly.com/badges/1b4739da-392c-4635-a12c-98493aefb039/public_url)
+  - [Alteryx Designer Core Micro-Credential: Data Transformation](https://www.credly.com/badges/d29b951f-429c-4a69-a158-4856cacc465d/public_url)
 - [Machine Learning Fundamentals Micro-Credential](https://www.credly.com/badges/dd0b0b12-5d64-41e4-9f05-4bec31ada5ea/public_url)
-
-### Programming Certifications
-
-  - [Python Essentials 1](https://www.credly.com/badges/7f8be19a-99eb-4c92-8bae-16f0a895d424)
+- [Learning Data Analytics: 1 Foundations](a9d797599e3abfd90a877dcab31901e373512fc2fefd8590d00b4bc05dcc2097)
 </details>
+
+ <details>
+    <summary><b>Programming Certifications</b></summary>
+   
+  - [Python Essentials 1](https://www.credly.com/badges/7f8be19a-99eb-4c92-8bae-16f0a895d424)
+  - [2024 Complete SQL Bootcamp from Zero to Hero in SQL](https://www.udemy.com/certificate/UC-ae35d0bc-fc07-4061-92fc-a037554b8c26/)
+</details>
+
 
 ## Projects 🚀
 <details>
@@ -66,6 +79,8 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 3. [Brewery Operations and Market Analysis](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass6/hpdp/coconut)
 
 4. [Comparison between big data libraries](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT)
+   
+6. [Annual Greenhouse Gas GHG Air Emissions Analysis](https://github.com/WanYin0704/Annual-Greenhouse-Gas-GHG-Air-Emissions-Analysis)
 </details>
 
 <details>
