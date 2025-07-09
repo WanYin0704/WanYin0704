@@ -2,11 +2,9 @@
 Hi there! I am **Ling Wan Yin** 👋✌️
 <img align= "right" src="hello.gif" length="200" width="225">
 
-- 👀 A **third-year data engineering student** at **Universiti Teknologi Malaysia (UTM)**.
+- 👀 A **final-year data engineering student** at **Universiti Teknologi Malaysia (UTM)**.
   <br>
-  
-- 🌱 Currently learning **ASP.NET**. 
-  
+    
 - 🙌 I'm passionate about transforming data into valuable insights and impactful data-driven solutions.
   <br>
 - 📫 Feel free to reach me for any collaboration via **lingwanyin2002@gmail.com** to kickstart my data mining journey.
