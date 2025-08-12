@@ -89,12 +89,19 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 2. [Streamlit-Data-Visualization](https://github.com/WanYin0704/Streamlit-Data-Visualization)
 </details>
 
+<details>
+  <summary><b>Data Engineering</b></summary>
+  
+1. [Bing-News-Sentiment-Analysis](https://github.com/WanYin0704/Bing-News-Sentiment-Analysis)
+   
+2. [Currency-ETL-Pipeline](https://github.com/WanYin0704/Currency-ETL-Pipeline)
+  
+3.  [ECDC-Covid19-ADF](https://github.com/WanYin0704/ECDC-Covid19-ADF)
+</details>
+
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/lingwanyin/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/WanYin0704/WanYin0704/7b5a68f236485a4170a914a0ece5565d8830c14c/linkedin.png" height="60" />
-</a>
-<a href="https://www.instagram.com/wanyin02/" target="_blank">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="60" />
 </a>
 </div>
 
