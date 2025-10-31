@@ -59,45 +59,36 @@ Hi there! I am **Ling Wan Yin** 👋✌️
 
 
 ## Projects 🚀
-<details>
   <summary><b>System Development</b></summary>
   
-1. [Car Booking System](https://github.com/WanYin0704/Car-Booking-System)
-  
-2. [Intellect Playschool Management System](https://github.com/WanYin0704/Intellect-Playschool-Management-System)  
-</details>
+1. [Car Booking System](https://github.com/WanYin0704/Car-Booking-System) - MySQL, PHP, HTML, CSS, Javascript
+2. [Intellect Playschool Management System](https://github.com/WanYin0704/Intellect-Playschool-Management-System) - MySQL, PHP, HTML, CSS, Javascript
+3. [AI Travel Planner](https://github.com/WanYin0704/ai-travel-planner-web) - React, Firebase, Gemini AI, TailwindCSS
 
-<details>
   <summary><b>Data Exploration and Big Data Analysis</b></summary>
   
-1. [Flow of patients in/out of Covid-19 Quarantine and Treatment Centres (PKRC), with capacity and utilisation](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass2/hpdp/ZProMax))
+1. [Flow of patients in/out of Covid-19 Quarantine and Treatment Centres (PKRC), with capacity and utilisation](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass2/hpdp/ZProMax)) - Python for EDA (Numpy, Pandas, Matplotlib, Seaborn)
   
-2. [New York Bus Rides Service Searches](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass3/hpdp/ZProMax)
+2. [New York Bus Rides Service Searches](https://github.com/drshahizan/Python_EDA/tree/main/assignment/ass3/hpdp/ZProMax) - Python (Pandas, Numpy, Dask, Matplotlib, Seaborn)
    
-3. [Brewery Operations and Market Analysis](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass6/hpdp/coconut)
+3. [Brewery Operations and Market Analysis](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass6/hpdp/coconut) - Python (Pandas, Dask), Big Data Strategies (Sampling, Optimize Data Types,  Load Less Data)
 
-4. [Comparison between big data libraries](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT)
+4. [Comparison between big data libraries](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT) - Python (Pandas, Dask, PySpark)
    
-6. [Annual Greenhouse Gas GHG Air Emissions Analysis](https://github.com/WanYin0704/Annual-Greenhouse-Gas-GHG-Air-Emissions-Analysis)
-</details>
+6. [Annual Greenhouse Gas GHG Air Emissions Analysis](https://github.com/WanYin0704/Annual-Greenhouse-Gas-GHG-Air-Emissions-Analysis) - Python (Machine Learning - Prediction, Classification, )
 
-<details>
   <summary><b>Data Visualization</b></summary>
   
-1. [Premise-Item-Price-Dynamics-Dashboard](https://github.com/WanYin0704/Premise-Item-Price-Dynamics-Dashboard)
+1. [Premise-Item-Price-Dynamics-Dashboard](https://github.com/WanYin0704/Premise-Item-Price-Dynamics-Dashboard) - Tableau
    
-2. [Streamlit-Data-Visualization](https://github.com/WanYin0704/Streamlit-Data-Visualization)
-</details>
+2. [Streamlit-Data-Visualization](https://github.com/WanYin0704/Streamlit-Data-Visualization) - Streamlit, Sakila DB
 
-<details>
   <summary><b>Data Engineering</b></summary>
   
-1. [Bing-News-Sentiment-Analysis](https://github.com/WanYin0704/Bing-News-Sentiment-Analysis)
+1. [Bing-News-Sentiment-Analysis](https://github.com/WanYin0704/Bing-News-Sentiment-Analysis) - Bing News API, SynapseML, Data Factory, Fabric Lakehouse, OneLake, Power BI 
    
-2. [Currency-ETL-Pipeline](https://github.com/WanYin0704/Currency-ETL-Pipeline)
-  
-3.  [ECDC-Covid19-ADF](https://github.com/WanYin0704/ECDC-Covid19-ADF)
-</details>
+2. [Currency-ETL-Pipeline](https://github.com/WanYin0704/Currency-ETL-Pipeline) -  Open Exchange Rates API, Apache Airflow, Docker, PostgreSQL
+3. [ECDC-Covid19-ADF](https://github.com/WanYin0704/ECDC-Covid19-ADF) - Azure Data Factory, Databricks, ADLS, SQL DB, Power BI
 
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/lingwanyin/" target="_blank">
